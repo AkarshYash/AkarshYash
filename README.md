@@ -34,7 +34,7 @@
 - 🔒 Working as a Technical Lead at Skills Sharp 365 Innovation
 - 🌱 Currently improving my skills in **Web Development** and **Machine Learning**.
 - 💬 Ask me about anything related to **Cybersecurity** and **Development**.
-- 📫 How to reach me: **(mailto:Chaturvediakarsh51@gmail.com)**
+- 📫 How to reach me: **(:Chaturvediakarsh51@gmail.com)**
 
 ---
 
@@ -59,8 +59,8 @@
 ### 🌟 **Top Projects**
 | Project Name       | Description                              | Repository                                      |
 |--------------------|------------------------------------------|------------------------------------------------|
-| Cybersecurity Tools| Various tools for vulnerability testing | [GitHub Link](https://github.com/...)          |
-| Portfolio Website  | My personal web portfolio               | [GitHub Link](https://github.com/...)          |
+| Cybersecurity Tools| Various tools for vulnerability testing | [GitHub Link](https://github.com/AkarshYash)         |
+| Portfolio Website  | My personal web portfolio               | [GitHub Link]https://akarshyash.github.io/Akarsh-potfolio/          |
 
 ---
 
