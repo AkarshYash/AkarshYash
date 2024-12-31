@@ -1,4 +1,8 @@
- Hi, I'm Akarsh Chaturvedi! 👋
+ 📊 GitHub Stats
+![Akarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkarshYash&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshYash&layout=compact&theme=dark)
+
+Hi, I'm Akarsh Chaturvedi! 👋
 
 🌟 About Me
 - 🎓 Masters in computer application in the specialisation in cyber security. @ ICFAI Jaipur.
