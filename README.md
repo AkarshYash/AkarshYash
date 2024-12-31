@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Enthusiast;Full-Stack+Developer;Always+Learning+%26+Building!" alt="Typing Animation" />
 </p>
-Hi, I'm Akarsh Chaturvedi! 👋
 
 🌟 About Me
 - 🎓 Masters in computer application in the specialisation in cyber security. @ ICFAI Jaipur.
