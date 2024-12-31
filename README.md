@@ -21,8 +21,8 @@
 
 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-259271236-blue)](https://www.linkedin.com/in/akarsh-chaturvedi-259271236)
-<h1 align="center">Hi 👋, I'm Akarsh Yash Chaturvedi</h1>
-<h3 align="center">Cybersecurity Expert | Ethical Hacker | Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Akarsh Chaturvedi</h1>
+<h3 align="center">Penetration Tester | Machine Learning Engineer | Security Development | Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Enthusiast;Full-Stack+Developer;Always+Learning+%26+Building!" alt="Typing Animation" />
@@ -32,7 +32,7 @@
 
 ### 🖥️ **About Me**
 - 🔒 Working as a Technical Lead at Skills Sharp 365 Innovation
-- 🌱 Currently improving my skills in **Web Development** and **Ethical Hacking**.
+- 🌱 Currently improving my skills in **Web Development** and **Machine Learning**.
 - 💬 Ask me about anything related to **Cybersecurity** and **Development**.
 - 📫 How to reach me: **[akarshyash@example.com](mailto:Chaturvediakarsh51@gmail.com)**
 
