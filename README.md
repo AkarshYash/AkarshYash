@@ -33,12 +33,6 @@
 
 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-259271236-blue)](https://www.linkedin.com/in/akarsh-chaturvedi-259271236)
-<h1 align="center">Hi 👋, I'm Akarsh Chaturvedi</h1>
-<h3 align="center">Penetration Tester | Machine Learning Engineer | Security Development | Web Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Enthusiast;Full-Stack+Developer;Always+Learning+%26+Building!" alt="Typing Animation" />
-</p>
 
 
 ### 🚀 **My Skills**
