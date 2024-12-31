@@ -5,6 +5,10 @@
 - 💻 Cybersecurity Expert | Ethical Hacker | Full-Stack Web Developer. | Python ( ML ) | Generative AI
 - 🏆 45+ Certifications in Cybersecurity and Python Development.
 - 🌐 LinkedIn: [Akarsh Chaturvedi](https://www.linkedin.com/in/akarsh-chaturvedi-259271236)
+- 🔒 Working as a Technical Lead at Skills Sharp 365 Innovation
+- 🌱 Currently improving my skills in **Web Development** and **Machine Learning**.
+- 💬 Ask me about anything related to **Cybersecurity** and **Development**.
+- 📫 How to reach me: **(:Chaturvediakarsh51@gmail.com)**
 
 💼 Skills & Expertise
 - Languages: Python, HTML, CSS, JavaScript
@@ -28,15 +32,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Enthusiast;Full-Stack+Developer;Always+Learning+%26+Building!" alt="Typing Animation" />
 </p>
 
----
-
-### 🖥️ **About Me**
-- 🔒 Working as a Technical Lead at Skills Sharp 365 Innovation
-- 🌱 Currently improving my skills in **Web Development** and **Machine Learning**.
-- 💬 Ask me about anything related to **Cybersecurity** and **Development**.
-- 📫 How to reach me: **(:Chaturvediakarsh51@gmail.com)**
-
----
 
 ### 🚀 **My Skills**
 <p align="center">
@@ -59,8 +54,8 @@
 ### 🌟 **Top Projects**
 | Project Name       | Description                              | Repository                                      |
 |--------------------|------------------------------------------|------------------------------------------------|
-| Cybersecurity Tools| Various tools for vulnerability testing | [GitHub Link](https://github.com/AkarshYash)         |
-| Portfolio Website  | My personal web portfolio               | [GitHub Link]https://akarshyash.github.io/Akarsh-potfolio/          |
+| Cybersecurity Tools| Various tools for vulnerability testing | [GitHub Link] (https://github.com/AkarshYash)         |
+| Portfolio Website  | My personal web portfolio               | [GitHub Link] https://akarshyash.github.io/Akarsh-potfolio/          |
 
 ---
 
