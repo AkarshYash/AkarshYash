@@ -34,7 +34,7 @@
 - 🔒 Working as a Technical Lead at Skills Sharp 365 Innovation
 - 🌱 Currently improving my skills in **Web Development** and **Machine Learning**.
 - 💬 Ask me about anything related to **Cybersecurity** and **Development**.
-- 📫 How to reach me: **[akarshyash@example.com](mailto:Chaturvediakarsh51@gmail.com)**
+- 📫 How to reach me: **(mailto:Chaturvediakarsh51@gmail.com)**
 
 ---
 
