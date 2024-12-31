@@ -1,7 +1,5 @@
- 📊 GitHub Stats
-![Akarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkarshYash&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshYash&layout=compact&theme=dark)
-
+<h1 align="center">Hi 👋, I'm Akarsh Chaturvedi</h1>
+<h3 align="center">Penetration Tester | Machine Learning Engineer | Security Development | Web Developer</h3>
 Hi, I'm Akarsh Chaturvedi! 👋
 
 🌟 About Me
@@ -26,6 +24,7 @@ Hi, I'm Akarsh Chaturvedi! 👋
 📊 GitHub Stats
 ![Akarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkarshYash&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshYash&layout=compact&theme=dark)
+
 
 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-259271236-blue)](https://www.linkedin.com/in/akarsh-chaturvedi-259271236)
