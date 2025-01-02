@@ -38,7 +38,7 @@
 
 ### 📈 **Graphs & Contributions**
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AkarshYash&bg_color=0f2d3d&color=1cadfb&line=39ff14&point=1cadfb&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://www.githubwrapped.io/AkarshYash" alt="GitHub Activity Graph" />
 </p>
 
 ---
