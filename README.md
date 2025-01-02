@@ -30,7 +30,7 @@
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkarshYash&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://camo.githubusercontent.com/950da35fda8faabb52aa90e4993190eae54b94e302b74d7515cc65e0e396ed85/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416b6172736859617368267468656d653d7261646963616c" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkarshYash&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshYash&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -38,7 +38,7 @@
 
 ### 📈 **Graphs & Contributions**
 <p align="center">
-  <img src="https://www.githubwrapped.io/AkarshYash" alt="GitHub Activity Graph" />
+  <img src="./path-to-uploaded-image-1" alt="Custom Graph Image" />
 </p>
 
 ---
@@ -71,5 +71,5 @@
 
 ### 🎨 **Animated Section**
 <p align="center">
-  <img src="https://www.githubwrapped.io/AkarshYash" alt="Custom Animation" />
+  <img src="./path-to-uploaded-image-2" alt="Custom Animation Image" />
 </p>
