@@ -71,5 +71,5 @@
 
 ### 🎨 **Animated Section**
 <p align="center">
-  <img src="https://github.com/AkarshYash/github-profile-animations/blob/main/animation.svg" alt="Custom Animation" />
+  <img src="https://www.githubwrapped.io/AkarshYash" alt="Custom Animation" />
 </p>
