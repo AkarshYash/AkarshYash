@@ -71,5 +71,5 @@
 
 ### 🎨 **Animated Section**
 <p align="center">
-  <img src="./path-to-uploaded-image-2" alt="Custom Animation Image" />
-</p>
+  <img src="https://github.com/user-attachments/assets/9a5745e5-92ad-436f-b96a-6a81afcb7891" alt="GitHub Stats" />
+</p>!
