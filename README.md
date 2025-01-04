@@ -36,13 +36,6 @@
 
 ---
 
-### 📈 **Graphs & Contributions**
-<p align="center">
-  <img src="./path-to-uploaded-image-1" alt="Custom Graph Image" />
-</p>
-
----
-
 ### 🏆 **Certifications**
 | Certification Title                | Provider                   | Validity       |
 |------------------------------------|----------------------------|----------------|
