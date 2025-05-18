@@ -9,9 +9,15 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:000000&height=140&section=header&text=Akarsh%20Chaturvedi%20🚀&fontSize=35&fontColor=FFFFFF&animation=fadeIn" />
+
 </p>
 
 ---
+<h1 align="center">🌐 Welcome to My GitHub Profile 🌐</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=39FF14&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Akarsh+Chaturvedi;Cybersecurity+%7C+Machine+Learning+%7C+Web+Development;Always+Learning+%7C+Always+Exploring!" alt="Typing Animation" />
+</p>
 
 ## 🧠 About Me
 
