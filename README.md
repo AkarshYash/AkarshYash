@@ -1,68 +1,117 @@
-<h1 align="center">🌐 Welcome to My GitHub Profile 🌐</h1>
+
+
+````md
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hi+I'm+Akarsh+Chaturvedi;Cybersecurity+%7C+ML+%7C+Web+Dev;Always+Learning+%7C+Always+Securing!" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=39FF14&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Akarsh+Chaturvedi;Cybersecurity+%7C+Machine+Learning+%7C+Web+Development;Always+Learning+%7C+Always+Exploring!" alt="Typing Animation" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300">
 </p>
 
 ---
 
-### 🌟 **About Me**
-- 🎓 **Masters** in Computer Application (Specialization: Cybersecurity) @ ICFAI Jaipur.
-- 💻 Cybersecurity Expert | Full-Stack Developer | Python (ML) Enthusiast | Generative AI Innovator.
-- 🏆 45+ Certifications in Cybersecurity and Python Development.
-- 🌱 Improving my expertise in **Web Development** and **Machine Learning**.
-- 📫 Reach Me at: [chaturvediakarsh51@gmail.com](mailto:chaturvediakarsh51@gmail.com)
-- 🔗 LinkedIn: [Akarsh Chaturvedi](https://www.linkedin.com/in/akarsh-chaturvedi-259271236)
+## 🧠 About Me
+
+```yaml
+Name: Akarsh Chaturvedi
+Role: Cybersecurity Analyst | ML Explorer | Full-Stack Developer
+Education:
+  - MCA in AI & ML, ICFAI University, Jaipur (2026)
+  - BCA in Cybersecurity (2024)
+Interests:
+  - Ethical Hacking, ML Models, Bug Bounty, Full-Stack Web Apps
+Achievements:
+  - 🏆 45+ Certifications
+  - 🐞 Reported bug to Microsoft Yammer
+  - 🧠 Cleared 8+ TryHackMe Challenges
+  - 👑 President @ ICFAI Student Council
+````
 
 ---
 
-### 🚀 **My Skills**
+## 💼 My Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-39FF14?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,react,django,mysql,mongodb,github,git,figma" />
 </p>
 
 ---
 
-### 📊 **GitHub Stats**
+## 🔐 Certifications
+
+| 🧾 Title                         | 🏛️ Provider                  | 📆 Validity |
+| -------------------------------- | ----------------------------- | ----------- |
+| SOC Fundamentals                 | Lead Defence                  | ✔ Completed |
+| Security+: Threats & Mitigations | CompTIA                       | ✔ Completed |
+| NDE                              | EC-Council                    | ✔ Completed |
+| Intro to Cybersecurity           | Cisco                         | ✔ Lifetime  |
+| 40+ more...                      | EC-Council, Google, IBM, etc. | ✔           |
+
+---
+
+## 💣 Featured Projects
+
+| 🚀 Project                                | ⚙️ Description                         | 🔗 Link                                                   |
+| ----------------------------------------- | -------------------------------------- | --------------------------------------------------------- |
+| **DDoS Prevention System**                | AI-ML-powered security for web servers | [GitHub](https://github.com/AkarshYash)                   |
+| **Auth System w/ OTP & Face Recognition** | Facial + OTP login                     | [Portfolio](https://akarshyash.github.io/Akarsh-potfolio) |
+| **Keylogger + Network Scanner**           | Pentesting tools in Python             | Private Repo                                              |
+| **Vulnerability Assessment Tools**        | Custom tools for bug bounty            | [GitHub](https://github.com/AkarshYash)                   |
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkarshYash&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkarshYash&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshYash&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkarshYash&show_icons=true&theme=midnight-purple" height="150">
+  <img src="https://streak-stats.demolab.com?user=AkarshYash&theme=midnight-purple" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshYash&layout=compact&theme=midnight-purple" height="150">
 </p>
 
 ---
 
-### 🏆 **Certifications**
-| Certification Title                | Provider                   | Validity       |
-|------------------------------------|----------------------------|----------------|
-| Ethical Hacking Essentials (EHE)  | EC Council (CodeRed)       | N/A            |
-| Introduction to Cyber Security     | Cisco                      | Lifetime       |
-| SOC Fundamentals                   | Lead Defence               | N/A            |
-| Critical Infrastructure Protections | OPSWAT Academy            | May 30, 2025   |
+## 🌐 Let's Connect!
 
----
-
-### 🌟 **Top Projects**
-| Project Name       | Description                              | Repository                                      |
-|--------------------|------------------------------------------|------------------------------------------------|
-| Cybersecurity Tools| Various tools for vulnerability testing | [GitHub](https://github.com/AkarshYash)        |
-| Portfolio Website  | My personal web portfolio               | [GitHub](https://akarshyash.github.io/Akarsh-potfolio/) |
-
----
-
-### 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://linkedin.com/in/AkarshChaturvedi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chaturvediakarsh51@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:chaturvediakarsh51@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/akarsh-chaturvedi-259271236/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://akarshyash.github.io/Akarsh-potfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=web&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-### 🎨 **Animated Section**
+## 🗺️ GitHub Contribution Graph
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9a5745e5-92ad-436f-b96a-6a81afcb7891" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkarshYash&theme=github-compact" />
 </p>
+
+---
+
+## 🧠 Quote for Hackers
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🎮 Fun Mode
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Z9rU3ZDbfZfhws6fIM/giphy.gif" width="300">
+  <br><br>
+  <em>“Hack the planet. Secure the world.”</em>
+</p>
+```
+
+---
+
+
