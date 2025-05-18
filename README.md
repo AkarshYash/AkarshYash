@@ -1,6 +1,15 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=🌐+Welcome+to+the+Cyber+Realm!;🚀+I'm+Akarsh+Chaturvedi;👨‍💻+Cybersecurity+%7C+Machine+Learning+%7C+Web+Development;💡+Securing+Systems+%7C+Building+Futures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&lines=Welcome+to+my+Cyber+Realm!;I'm+Akarsh+Chaturvedi;Cybersecurity+%7C+ML+%7C+Web+Dev+%7C+Leader;Always+Learning+%7C+Always+Exploring!" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Cyber animation">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:000000&height=140&section=header&text=Akarsh%20Chaturvedi%20🚀&fontSize=35&fontColor=FFFFFF&animation=fadeIn" />
+</p>
+
 </h1>
 
 <p align="center">
