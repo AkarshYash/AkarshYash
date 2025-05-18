@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&lines=Welcome+to+my+Cyber+Realm!;I'm+Akarsh+Chaturvedi;Cybersecurity+%7C+ML+%7C+Web+Dev+%7C+Leader;Always+Learning+%7C+Always+Exploring!" alt="Typing SVG" />
 </h1>
 
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Cyber animation">
 </p>
