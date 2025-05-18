@@ -18,10 +18,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U2Y3kzZGd2Y2xvM3RxcThjNnNtMmFmcXBhNnN2eHRqMW9obHl4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WUlplcZIRP4GhLW5XQ/giphy.gif" width="400" alt="Cyber animation">
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:000000&height=140&section=header&text=Akarsh%20Chaturvedi%20🚀&fontSize=35&fontColor=FFFFFF&animation=fadeIn" />
-
-</p>
 
 ---
 <h1 align="center">🌐 Welcome to My GitHub Profile 🌐</h1>
