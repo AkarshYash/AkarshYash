@@ -1,6 +1,17 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?...&multiline=true&...&lines=Line1;Line2;Line3" />
-font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&lines=Welcome+to+my+Cyber+Realm!;I'm+Akarsh+Chaturvedi;Cybersecurity+%7C+ML+%7C+Web+Dev+%7C+Leader;Always+Learning+%7C+Always+Exploring!" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=39FF14&width=800&lines=🌐 Welcome to my Cyber Realm!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FFFF&width=800&lines=🚀 I'm Akarsh Chaturvedi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=FADA5E&width=800&lines=👨‍💻 Cybersecurity | ML | Web Dev | Leader" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF4C29&width=800&lines=💡 Always Learning | Always Exploring" />
 </h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Cyber animation">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:000000&height=140&section=header&text=Akarsh%20Chaturvedi%20🚀&fontSize=35&fontColor=FFFFFF&animation=fadeIn" />
+</p>
 
 
 
