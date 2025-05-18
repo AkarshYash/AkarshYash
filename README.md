@@ -99,7 +99,7 @@ Achievements:
 
 ---
 
-## 🧠 Words of a Hacker Mindset
+## 🧠 Decoding the World, One Packet at a Time
 
 > 🧠 “The quieter you become, the more you are able to hear.”
 > — *Ram Dass (used by ethical hackers to reflect digital silence and observation)*
@@ -115,10 +115,6 @@ Achievements:
 
 > 🔥 “In cybersecurity, the human element is both the strongest defense and the weakest link.”
 > — *Kevin Mitnick*
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6f/58/13/6f5813087a9c16b1cdbdf6369f78c071.gif" width="500" alt="Hacker Quote" />
-</p>
 
 
 
