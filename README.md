@@ -24,7 +24,7 @@ Education:
   - MCA in AI & ML, ICFAI University, Jaipur (2026)
   - BCA in Cybersecurity (2024)
 Interests:
-  - Cyber security, Machine learning , Security development, Full-Stack Web Apps & Software development
+  - Cyber Security, Machine Learning ,Security Development, Full-Stack Web Apps & Software development
 Achievements:
   - 🏆 45+ Certifications
   - 🐞 Reported bug to Microsoft Yammer
@@ -73,9 +73,9 @@ Achievements:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshYash&layout=compact&theme=midnight-purple" height="150">
 </p>
 
----
 
 ---
+
 
 ## 🌐 Let's Connect
 
@@ -93,8 +93,14 @@ Achievements:
 
 ---
 
+
 ## 📊 Contribution Graph
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-119-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="animation" width="40" style="vertical-align: middle;" />
+</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkarshYash&theme=github_dark" />
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkarshYash&theme=github-compact" />
 </p>
