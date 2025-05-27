@@ -98,7 +98,7 @@ Achievements:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Contributions-119-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="animation" width="40" style="vertical-align: middle;" />
+  <img src="https://github.com/user-attachments/assets/43787ea0-bc54-483b-943d-ae09d1bd90ac" alt="animation" width="40" style="verticalalign: middle;" />
 </p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkarshYash&theme=github_dark" />
 <p align="center">
