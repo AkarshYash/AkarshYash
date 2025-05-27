@@ -75,6 +75,18 @@ Achievements:
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/AkarshYash/AkarshYash/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AkarshYash&theme=react-dark&hide_border=true" />
+</p>
+
+
+---
+
 ## 🌐 Let's Connect
 
 <p align="center">
