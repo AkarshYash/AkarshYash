@@ -71,7 +71,7 @@ Achievements:
   <img src="https://github-readme-stats.vercel.app/api?username=AkarshYash&show_icons=true&theme=midnight-purple" height="150">
   <img src="https://streak-stats.demolab.com?user=AkarshYash&theme=midnight-purple" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshYash&layout=compact&theme=midnight-purple" height="150">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/meannesssuburban.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Kalki.Akarsh.18.png" alt="Your Image Badge" />
 
 </p>
 
