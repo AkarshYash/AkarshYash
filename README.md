@@ -1,154 +1,306 @@
-<h1 align="center">🌐 Welcome to My GitHub Profile 🌐</h1>
+ <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=39FF14&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Akarsh+Chaturvedi;Cybersecurity+%7C+Machine+Learning+%7C+Web+Development;Always+Learning+%7C+Always+Exploring!" alt="Typing Animation" />
-</p>
+<!-- FUTURISTIC ANIMATED HEADER -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,35:101C2C,70:123B32,100:39FF14&text=AKARSH%20CHATURVEDI&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20CYBERSECURITY%20%7C%20DEVELOPMENT&descAlignY=58&descSize=14&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" alt="Cyber animation">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=850&lines=Aspiring+AI+Forward+Deployed+Engineer;Learning+Python+One+Project+at+a+Time;Building+Practical+AI+Engineering+Skills;Exploring+LLMs%2C+RAG+%26+AI+Agents;Cybersecurity+%7C+Automation+%7C+Cloud;Learning.+Building.+Experimenting.+Repeating." alt="Animated typing introduction" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:000000&height=140&section=header&text=Akarsh%20Chaturvedi%20🚀&fontSize=35&fontColor=FFFFFF&animation=fadeIn" />
-</p>
+<br/>
+
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="480" alt="Cybersecurity animation"/>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-AkarshYash-39FF14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkarshYash)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akarshyash.github.io/Akarsh-potfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akarsh-chaturvedi-259271236/)
+
+<img src="https://komarev.com/ghpvc/?username=AkarshYash&label=PROFILE%20VIEWS&color=39FF14&style=for-the-badge" alt="Profile views"/>
+
+</div>
 
 ---
 
-## 🧠 About Me
+# 🧬 01 / SYSTEM IDENTITY
 
 ```yaml
-Name: Akarsh Chaturvedi
-Role: Cybersecurity Engineer | Machine Learning Engineer  | Full-Stack Developer
-Education:
-  - MCA in AI & ML, ICFAI University, Jaipur (2026)
+identity:
+  name: Akarsh Chaturvedi
+  focus: AI Forward Deployed Engineering
+  interests:
+    - Artificial Intelligence
+    - Machine Learning
+    - Cybersecurity
+    - Software Engineering
+    - Full-Stack Development
+
+education:
+  - MCA in AI & ML | ICFAI University, Jaipur (2026)
   - BCA in Cybersecurity (2024)
-Interests:
-  - Cyber Security, Machine Learning ,Security Development, Full-Stack Web Apps & Software development
-Achievements:
-  - 🏆 45+ Certifications
-  - 🐞 Reported bug to Microsoft Yammer
-  - 🧠 Cleared 18+ TryHackMe Challenges
-  - 👑 President @ ICFAI Student Council 
-````
+
+current_mission:
+  - Master Python fundamentals
+  - Build real-world AI applications
+  - Understand APIs and backend engineering
+  - Explore LLMs, RAG and AI agents
+  - Learn cloud infrastructure and deployment
+  - Develop practical engineering experience
+
+philosophy: Learn -> Build -> Test -> Improve -> Deploy
+```
+
+## 👨‍💻 About Me
+
+Hey! I'm **Akarsh Chaturvedi**, a technology enthusiast exploring the intersection of Artificial Intelligence, Cybersecurity and Software Engineering.
+
+My current career goal is to become an **AI Forward Deployed Engineer (AI FDE)** — someone who can understand real-world business problems, engineer AI-powered solutions, integrate them into existing systems and deliver working products.
+
+I'm following a structured, hands-on learning journey. Rather than only collecting tutorials, I'm focusing on building projects, understanding the fundamentals and documenting my progress publicly.
+
+### What I'm exploring
+
+- 🤖 AI Engineering: LLMs, prompt engineering, RAG and AI agents.
+- 🐍 Python Development: Programming fundamentals, automation and backend development.
+- 🧠 Machine Learning: Model fundamentals and practical AI applications.
+- 🔐 Cybersecurity: Network security, vulnerability research and secure development.
+- 🌐 Web Engineering: HTML, CSS, JavaScript and full-stack applications.
+- ☁️ Cloud & DevOps: APIs, Docker, AWS and deployment workflows.
+- 🔗 AI Integration: Connecting models, tools, APIs and real-world applications.
 
 ---
 
-## 💼 My Tech Stack
+# 🚀 02 / CURRENT LEARNING MISSION
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,react,django,mysql,mongodb,github,git,figma" />
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=MISSION%3A+BECOME+AN+AI+FORWARD+DEPLOYED+ENGINEER;STATUS%3A+LEARNING+%26+BUILDING;EVERY+DAY%3A+ONE+STEP+CLOSER" />
 
-## 🔐 Certifications
+</div>
 
-| 🧾 Title                         | 🏛️ Provider       | 📆 Validity |
-| -------------------------------- | ------------------ | ----------- |
-| SOC Fundamentals                 | Lead Defence       | ✔ Completed |
-| Security+: Threats & Mitigations | CompTIA            | ✔ Completed |
-| Network Defense Essentials (NDE) | EC-Council         | ✔ Completed |
-| Introduction to Cybersecurity    | Cisco              | ✔ Lifetime  |
-| 40+ more                         | Google, EC-Council | ✔ Ongoing   |
+### My AI FDE learning roadmap
 
----
+**16-week / 112-day engineering journey**
 
-## 💣 Featured Projects
+| Domain | Learning focus | Status |
+|---|---|---|
+| 01. Python | Variables, data types, conditions, loops, functions | 🟢 In progress |
+| 02. Developer Foundations | Git, GitHub, Linux, JSON, HTTP | 📅 Upcoming |
+| 03. Backend Engineering | FastAPI, PostgreSQL, authentication, testing | 📅 Upcoming |
+| 04. AI Foundations | LLMs, tokens, prompts, embeddings | 📅 Upcoming |
+| 05. AI Applications | OpenAI, Claude, model integration | 📅 Upcoming |
+| 06. RAG Engineering | Vector databases, retrieval, pgvector | 📅 Upcoming |
+| 07. AI Agents | LangGraph, tool calling, MCP | 📅 Upcoming |
+| 08. Cloud Engineering | AWS, Docker, CI/CD, deployment | 📅 Upcoming |
+| 09. Production Engineering | Logging, monitoring, security | 📅 Upcoming |
+| 10. FDE Skills | Discovery, debugging, integration, architecture | 📅 Upcoming |
+| 11. Capstone | Build and deploy a practical AI application | 📅 Upcoming |
 
-| 🚀 Project                          | ⚙️ Description                                        | 🔗 Link                                                   |
-| ----------------------------------- | ----------------------------------------------------- | --------------------------------------------------------- |
-| **DDoS Prevention System**          | AI-ML-powered security for web servers                | [GitHub](https://github.com/AkarshYash)                   |
-| **OTP + Face Recognition Auth**     | Secure facial & OTP login system                      | [Portfolio](https://akarshyash.github.io/Akarsh-potfolio) |
-| **Keylogger & Network Scanner**     | Penetration testing utilities built in Python         | 🔐 Private Repo                                           |
-| **Bug Bounty Tools & VAPT Scripts** | Custom tools for vulnerability detection & automation | [GitHub](https://github.com/AkarshYash)                   |
+### Current progress
 
----
+- [x] Python fundamentals — Task 1 completed.
+- [ ] AI Project Budget Calculator — Task 2 in progress.
+- [ ] Python `input()` and user interaction.
+- [ ] Conditional logic and loops.
+- [ ] Functions and reusable code.
+- [ ] First complete Python project.
+- [ ] Backend APIs with FastAPI.
+- [ ] First LLM-powered application.
 
-## 📈 GitHub Stats
+**My daily commitment:** Approximately one hour of focused learning, coding and practical implementation.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkarshYash&show_icons=true&theme=midnight-purple" height="150">
-  <img src="https://streak-stats.demolab.com?user=AkarshYash&theme=midnight-purple" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshYash&layout=compact&theme=midnight-purple" height="150">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Kalki.Akarsh.18.png" alt="Your Image Badge" />
-
-</p>
-
-
----
-
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:chaturvediakarsh51@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/akarsh-chaturvedi-259271236/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://akarshyash.github.io/Akarsh-potfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=web&logoColor=black" />
-  </a>
-</p>
+📚 **Follow my learning journey:** [AI FDE Learning Roadmap](https://github.com/AkarshYash/FDE-Learning-Roadmap)
 
 ---
 
+# 🧠 03 / TECHNOLOGY ECOSYSTEM
 
-## 📊 Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-119-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://github.com/user-attachments/assets/43787ea0-bc54-483b-943d-ae09d1bd90ac" alt="animation" width="40" style="verticalalign: middle;" />
-</p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkarshYash&theme=github_dark" />
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkarshYash&theme=github-compact" />
-</p>
+### 🐍 Programming & Development
 
----
+<img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,react,django,mysql,mongodb,git,github,vscode&theme=dark&perline=6" />
 
-## 🧠 Decoding the World, One Packet at a Time
+### 🤖 AI / Machine Learning — Exploring
 
-> 🧠 “The quieter you become, the more you are able to hear.”
-> — *Ram Dass (used by ethical hackers to reflect digital silence and observation)*
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 
-> 💻 “Hackers are the immune system of the internet.”
-> — *Astro Teller*
+**Learning focus:** Python, LLMs, OpenAI APIs, Claude, LangChain, LangGraph, RAG, embeddings, vector databases and MCP.
 
-> 🔐 “Only those who risk going too far can possibly find out how far one can go.”
-> — *T.S. Eliot*
+### ☁️ Backend / Cloud / DevOps — Learning Path
 
-> ⚔ “To defeat the system, you must first understand the system.”
-> — *F.G. Thomson*
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,aws,linux,bash,githubactions&theme=dark&perline=7" />
 
-> 🔥 “In cybersecurity, the human element is both the strongest defense and the weakest link.”
-> — *Kevin Mitnick*
+### 🔐 Cybersecurity
 
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github&theme=dark&perline=5" />
 
+**Areas of interest:** Network security, vulnerability assessment, penetration testing concepts, security automation and secure software development.
 
+</div>
 
 ---
 
-### 🌟 Top Projects
-| Project Name       | Description                              | Repository                                      |
-|--------------------|------------------------------------------|------------------------------------------------|
-| Cybersecurity Tools| Various tools for vulnerability testing | [GitHub](https://github.com/AkarshYash)        |
-| Portfolio Website  | My personal web portfolio               | [GitHub](https://akarshyash.github.io/Akarsh-potfolio/) |
+# ⚡ 04 / PROJECT LAB
+
+I believe the best way to learn engineering is to build things.
+
+| Project | Description | Status |
+|---|---|---|
+| 🧮 AI Project Budget Calculator | Python-based project budgeting and calculation tool | 🟡 Building |
+| 🧠 AI FDE Learning Roadmap | Structured 112-day learning journey and coding journal | 🟢 Active |
+| 🛡️ DDoS Prevention System | AI/ML-oriented web server security project | 🔬 Project |
+| 🔐 OTP + Face Recognition | Facial recognition and OTP authentication concept | 🔬 Project |
+| 🐍 Cybersecurity Tools | Python network scanning and security utilities | 🔬 Project |
+| 🌐 Personal Portfolio | Personal developer portfolio | 🌐 Live |
+
+### Featured repositories
+
+<div align="center">
+
+<a href="https://github.com/AkarshYash/FDE-Learning-Roadmap">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkarshYash&repo=FDE-Learning-Roadmap&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/AkarshYash">
+<img src="https://github-readme-stats.vercel.app/api?username=AkarshYash&show_icons=true&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
+# 🏆 05 / ACHIEVEMENTS & CERTIFICATIONS
 
-### 🎨 Animated Section
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9a5745e5-92ad-436f-b96a-6a81afcb7891" alt="GitHub Stats" /> . 
-</p>
+- 🏆 45+ certifications and learning credentials.
+- 🐞 Reported a bug to Microsoft Yammer.
+- 🧠 Completed 18+ TryHackMe challenges.
+- 👑 President, ICFAI Student Council.
 
-![CodeChef](https://img.shields.io/badge/CodeChef-1★-orange)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-263-blue)
+### Selected certifications
 
-💖 Thank You for Visiting!
-<p align="center"> 🙏 Thank you for stopping by my GitHub profile! 🚀 I’m always eager to learn, collaborate, and grow in the world of cybersecurity and artificial intelligence and Machine learning and web development 💬 Feel free to connect, contribute,🤝👍🏻 ! </p> <p align="center" style="font-size:24px;"> ❤✨ Keep Coding, Keep Securing! ✨❤ </p> <p align="center"> <img src="https://media.giphy.com/media/l4JyOCNEfXvVYEqB2/giphy.gif" width="500" alt="Thank You Heart" /> </p>
+| Certification | Provider |
+|---|---|
+| SOC Fundamentals | Lead Defence |
+| Security+: Threats & Mitigations | CompTIA |
+| Network Defense Essentials | EC-Council |
+| Introduction to Cybersecurity | Cisco |
 
+---
 
+# 📊 06 / GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkarshYash&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=AkarshYash&theme=github-dark-blue&hide_border=true" />
+
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshYash&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkarshYash&theme=github_dark" />
+
+</div>
+
+---
+
+# 🌌 07 / 3D CONTRIBUTION UNIVERSE
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkarshYash&bg_color=050505&color=39FF14&line=00C9A7&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20GITHUB%20ACTIVITY" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AkarshYash/AkarshYash/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+*Note: The contribution snake requires a GitHub Actions workflow to generate the SVG in the `output` branch.*
+
+### 🌐 3D Profile Contributions
+
+For a real 3D contribution visualization, use [GitHub Profile 3D Contrib](https://github.com/yoshi389111/github-profile-3d-contrib). It generates 3D contribution SVGs through GitHub Actions.
+
+---
+
+# 🎯 08 / MY ENGINEERING PHILOSOPHY
+
+```python
+class FutureEngineer:
+
+    def __init__(self):
+        self.mindset = "Always Learning"
+        self.interests = [
+            "Artificial Intelligence",
+            "Cybersecurity",
+            "Software Engineering",
+            "Problem Solving"
+        ]
+        self.goal = "AI Forward Deployed Engineer"
+
+    def daily_routine(self):
+        return [
+            "Learn something new",
+            "Write code",
+            "Build a project",
+            "Debug and improve",
+            "Document the journey"
+        ]
+
+    def execute(self):
+        while True:
+            for task in self.daily_routine():
+                print(f"[+] {task}")
+
+engineer = FutureEngineer()
+engineer.execute()
+```
+
+---
+
+# 🌍 09 / LET'S CONNECT
+
+<div align="center">
+
+I'm always interested in connecting with developers, AI enthusiasts, cybersecurity researchers and people building interesting technology.
+
+<a href="mailto:chaturvediakarsh51@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/akarsh-chaturvedi-259271236/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/AkarshYash">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://akarshyash.github.io/Akarsh-potfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=The+Future+Is+Built%2C+Not+Predicted.;Think+Like+An+Engineer.;Build+Like+An+Innovator.;Secure+Like+A+Researcher." />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:123B32,100:050505&height=130&section=footer&animation=fadeIn" />
+
+**💚 Learn Continuously. Build Fearlessly. Secure Everything.**
+
+⭐ If you find something interesting here, explore my repositories and leave a star!
+
+</div>
